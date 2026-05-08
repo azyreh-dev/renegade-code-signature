@@ -222,7 +222,7 @@ Renegade is separated into focused components.
 ### Build Steps
 
 ```bash
-git clone https://github.com/azyreh-dev/Renegade.git
+git clone https://github.com/azyreh-dev/renegade-code-signature.git
 cd Renegade
 mkdir build
 cd build
